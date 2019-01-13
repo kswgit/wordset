@@ -1,59 +1,5 @@
 [
   {
-    "w": "rencontre",
-    "id": 0
-  },
-  {
-    "w": "accompagner",
-    "id": 1
-  },
-  {
-    "w": "récit",
-    "id": 2
-  },
-  {
-    "w": "indiquer",
-    "id": 3
-  },
-  {
-    "w": "endroit",
-    "id": 4
-  },
-  {
-    "w": "décrivez",
-    "id": 5
-  },
-  {
-    "w": "précision",
-    "id": 6
-  },
-  {
-    "w": "sentiment",
-    "id": 7
-  },
-  {
-    "w": "inoubliable",
-    "id": 8
-  },
-  {
-    "w": "garder",
-    "id": 9
-  },
-  {
-    "w": "trace",
-    "id": 10
-  },
-  {
-    "w": "journal",
-    "id": 11
-  },
-  {
-    "w": "semble",
-    "id": 12
-  }
-]
-[
-  {
     "w": "재회, 다시만남",
     "id": 0
   },
