@@ -90,5 +90,689 @@
   {
     "w": "gros bisous!",
     "id": 22
+  },
+    {
+    "w": "impoli",
+    "id": 23
+  },
+  {
+    "w": "insultant",
+    "id": 24
+  },
+  {
+    "w": "disent",
+    "id": 25
+  },
+  {
+    "w": "parfois",
+    "id": 26
+  },
+  {
+    "w": "locution",
+    "id": 27
+  },
+  {
+    "w": "autorise",
+    "id": 28
+  },
+  {
+    "w": "atténuer ",
+    "id": 29
+  },
+  {
+    "w": "brutalité",
+    "id": 30
+  },
+  {
+    "w": "impératif ",
+    "id": 31
+  },
+  {
+    "w": "asseyez",
+    "id": 32
+  },
+  {
+    "w": "laisser",
+    "id": 33
+  },
+  {
+    "w": "demander",
+    "id": 34
+  },
+  {
+    "w": "santé",
+    "id": 35
+  },
+  {
+    "w": "espoir",
+    "id": 36
+  },
+  {
+    "w": "espére",
+    "id": 37
+  },
+  {
+    "w": "rassure",
+    "id": 38
+  },
+  {
+    "w": "ça vous va?",
+    "id": 39
+  },
+  {
+    "w": "ça a été?",
+    "id": 40
+  },
+  {
+    "w": "voient",
+    "id": 41
+  },
+  {
+    "w": "voisine",
+    "id": 42
+  },
+  {
+    "w": "organise",
+    "id": 43
+  },
+  {
+    "w": "souhaiter",
+    "id": 44
+  },
+  {
+    "w": "vœu ",
+    "id": 45
+  },
+  {
+    "w": "envoie",
+    "id": 46
+  },
+  {
+    "w": "heureuse",
+    "id": 47
+  },
+  {
+    "w": "cartes de vœux",
+    "id": 48
+  },
+  {
+    "w": "réveillon",
+    "id": 49
+  },
+  {
+    "w": "deuil",
+    "id": 50
+  },
+  {
+    "w": "condoléances",
+    "id": 51
+  },
+  {
+    "w": "triste",
+    "id": 52
+  },
+  {
+    "w": "décès de",
+    "id": 53
+  },
+  {
+    "w": "pauvre",
+    "id": 54
+  },
+  {
+    "w": "occasion",
+    "id": 55
+  },
+  {
+    "w": "félicitations",
+    "id": 56
+  },
+  {
+    "w": "gagné",
+    "id": 57
+  },
+  {
+    "w": "difficile",
+    "id": 58
+  },
+  {
+    "w": "trinque",
+    "id": 59
+  },
+  {
+    "w": "disant",
+    "id": 60
+  },
+  {
+    "w": "soeur",
+    "id": 61
+  },
+  {
+    "w": "distingué ",
+    "id": 62
+  },
+  {
+    "w": "frères",
+    "id": 63
+  },
+  {
+    "w": "tante",
+    "id": 64
+  },
+  {
+    "w": "nièce ",
+    "id": 65
+  },
+  {
+    "w": "beau-père",
+    "id": 66
+  },
+  {
+    "w": "belle-mère ",
+    "id": 67
+  },
+  {
+    "w": "adopter",
+    "id": 68
+  },
+  {
+    "w": "chacun",
+    "id": 69
+  },
+  {
+    "w": "ressembles",
+    "id": 70
+  },
+  {
+    "w": "tombe",
+    "id": 71
+  },
+  {
+    "w": "le coup de foudre",
+    "id": 72
+  },
+  {
+    "w": "deviennent",
+    "id": 73
+  },
+  {
+    "w": "amants",
+    "id": 74
+  },
+  {
+    "w": "se voient",
+    "id": 75
+  },
+  {
+    "w": "vivre avec",
+    "id": 76
+  },
+  {
+    "w": "s'installe",
+    "id": 77
+  },
+  {
+    "w": "vivent ensemble",
+    "id": 78
+  },
+  {
+    "w": "préféré",
+    "id": 79
+  },
+  {
+    "w": "épouser",
+    "id": 80
+  },
+  {
+    "w": "église",
+    "id": 81
+  },
+  {
+    "w": "un mariage religieux",
+    "id": 82
+  },
+  {
+    "w": "témoins",
+    "id": 83
+  },
+  {
+    "w": "désirent",
+    "id": 84
+  },
+  {
+    "w": "concubinage",
+    "id": 85
+  },
+  {
+    "w": "conclure",
+    "id": 86
+  },
+  {
+    "w": "se disputent",
+    "id": 87
+  },
+  {
+    "w": "constamment",
+    "id": 88
+  },
+  {
+    "w": "contraire",
+    "id": 89
+  },
+  {
+    "w": "malgré",
+    "id": 90
+  },
+  {
+    "w": "scène de ménage",
+    "id": 91
+  },
+  {
+    "w": "disputes",
+    "id": 92
+  },
+  {
+    "w": "essaie",
+    "id": 93
+  },
+  {
+    "w": "se réconcilier",
+    "id": 94
+  },
+  {
+    "w": "trompais",
+    "id": 95
+  },
+  {
+    "w": "rupture",
+    "id": 96
+  },
+  {
+    "w": "quitter",
+    "id": 97
+  },
+  {
+    "w": "divorce",
+    "id": 98
+  },
+  {
+    "w": "aventure sans lendemain",
+    "id": 99
+  },
+  {
+    "w": "nous nous quittions",
+    "id": 100
+  },
+  {
+    "w": "avenir",
+    "id": 101
+  },
+  {
+    "w": "menteur",
+    "id": 102
+  },
+  {
+    "w": "hier",
+    "id": 103
+  },
+  {
+    "w": "deteste",
+    "id": 104
+  },
+  {
+    "w": "haïr ",
+    "id": 105
+  },
+  {
+    "w": "verra",
+    "id": 106
+  },
+  {
+    "w": "partagée",
+    "id": 107
+  },
+  {
+    "w": "rire",
+    "id": 108
+  },
+  {
+    "w": "éprouver",
+    "id": 109
+  },
+  {
+    "w": "rejouir",
+    "id": 110
+  },
+  {
+    "w": "chagriner",
+    "id": 111
+  },
+  {
+    "w": "mourir",
+    "id": 112
+  },
+  {
+    "w": "perdre",
+    "id": 113
+  },
+  {
+    "w": "décès",
+    "id": 114
+  },
+  {
+    "w": "effondrer",
+    "id": 115
+  },
+  {
+    "w": "abattu",
+    "id": 116
+  },
+  {
+    "w": "preuve",
+    "id": 117
+  },
+  {
+    "w": "courage",
+    "id": 118
+  },
+  {
+    "w": "enterrement",
+    "id": 119
+  },
+  {
+    "w": "obsèques",
+    "id": 120
+  },
+  {
+    "w": "incinérée",
+    "id": 121
+  },
+  {
+    "w": "crémation",
+    "id": 122
+  },
+  {
+    "w": "crématorium",
+    "id": 123
+  },
+  {
+    "w": "cimetière",
+    "id": 124
+  },
+  {
+    "w": "orphelin",
+    "id": 125
+  },
+  {
+    "w": "veuve",
+    "id": 126
+  },
+  {
+    "w": "veuf",
+    "id": 127
+  },
+  {
+    "w": "éprouver",
+    "id": 128
+  },
+  {
+    "w": "tendresse",
+    "id": 129
+  },
+  {
+    "w": "rend",
+    "id": 130
+  },
+  {
+    "w": "tendre",
+    "id": 131
+  },
+  {
+    "w": "affectueuse",
+    "id": 132
+  },
+  {
+    "w": "fier de",
+    "id": 133
+  },
+  {
+    "w": "sympathise",
+    "id": 134
+  },
+  {
+    "w": "sympathique",
+    "id": 135
+  },
+  {
+    "w": "inspiré",
+    "id": 136
+  },
+  {
+    "w": "haine",
+    "id": 137
+  },
+  {
+    "w": "mépris",
+    "id": 138
+  },
+  {
+    "w": "en colère contre",
+    "id": 139
+  },
+  {
+    "w": "faire confiance",
+    "id": 140
+  },
+  {
+    "w": "partage",
+    "id": 141
+  },
+  {
+    "w": "ressent ",
+    "id": 142
+  },
+  {
+    "w": "admire",
+    "id": 143
+  },
+  {
+    "w": "manifeste",
+    "id": 144
+  },
+  {
+    "w": "soutien",
+    "id": 145
+  },
+  {
+    "w": "plains",
+    "id": 146
+  },
+  {
+    "w": "compassion",
+    "id": 147
+  },
+  {
+    "w": "déception",
+    "id": 148
+  },
+  {
+    "w": "Je suis déçu",
+    "id": 149
+  },
+  {
+    "w": "réjouis",
+    "id": 150
+  },
+  {
+    "w": "piscine",
+    "id": 151
+  },
+  {
+    "w": "plongeant",
+    "id": 152
+  },
+  {
+    "w": "racontez",
+    "id": 153
+  },
+  {
+    "w": "plutôt",
+    "id": 154
+  },
+  {
+    "w": "Ç'est quelqu'un de vraiment",
+    "id": 155
+  },
+  {
+    "w": "Jean a une forte personnalité.",
+    "id": 156
+  },
+  {
+    "w": "manque de courage",
+    "id": 157
+  },
+  {
+    "w": "prudent",
+    "id": 158
+  },
+  {
+    "w": "incroyable",
+    "id": 159
+  },
+  {
+    "w": "caractère",
+    "id": 160
+  },
+  {
+    "w": "chouette",
+    "id": 161
+  },
+  {
+    "w": "paresseux",
+    "id": 162
+  },
+  {
+    "w": "dur",
+    "id": 163
+  },
+  {
+    "w": "odieux",
+    "id": 164
+  },
+  {
+    "w": "traits",
+    "id": 165
+  },
+  {
+    "w": "rigueur",
+    "id": 166
+  },
+  {
+    "w": "drôle",
+    "id": 167
+  },
+  {
+    "w": "soigneuse",
+    "id": 168
+  },
+  {
+    "w": "soin",
+    "id": 169
+  },
+  {
+    "w": "ouverture d'esprit",
+    "id": 170
+  },
+  {
+    "w": "discrétion",
+    "id": 171
+  },
+  {
+    "w": "superficiel",
+    "id": 172
+  },
+  {
+    "w": "profond",
+    "id": 173
+  },
+  {
+    "w": "pape",
+    "id": 174
+  },
+  {
+    "w": "ennuyeux",
+    "id": 175
+  },
+  {
+    "w": "semaine",
+    "id": 176
+  },
+  {
+    "w": "la veille",
+    "id": 177
+  },
+  {
+    "w": "demain matin",
+    "id": 178
+  },
+  {
+    "w": "la Toussaint",
+    "id": 179
+  },
+  {
+    "w": "On est le combien?",
+    "id": 180
+  },
+  {
+    "w": "On est quel jour?",
+    "id": 181
+  },
+  {
+    "w": "Tu as l'heure?",
+    "id": 182
+  },
+  {
+    "w": "majuscule",
+    "id": 183
+  },
+  {
+    "w": "Le soleil se lève",
+    "id": 184
+  },
+  {
+    "w": "infirmière",
+    "id": 185
+  },
+  {
+    "w": "mauvaise",
+    "id": 186
+  },
+  {
+    "w": "horaire",
+    "id": 187
+  },
+  {
+    "w": "lendemain",
+    "id": 188
+  },
+  {
+    "w": "il faut du temps",
+    "id": 189
+  },
+  {
+    "w": "repousser",
+    "id": 190
+  },
+  {
+    "w": "vélo",
+    "id": 191
+  },
+  {
+    "w": "récemment",
+    "id": 192
+  },
+  {
+    "w": "matinal",
+    "id": 193
   }
 ]
