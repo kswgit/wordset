@@ -1,402 +1,402 @@
 [
   {
     "w": "du temps qu'il fait avec leurs viosins",
-    "id": 1
+    "id": 0
   },
   {
     "w": "il fait mauvais",
-    "id": 2
+    "id": 1
   },
   {
     "w": "il fait gris",
-    "id": 3
+    "id": 2
   },
   {
     "w": "il fait nuageux",
-    "id": 4
+    "id": 3
   },
   {
     "w": "il fait un soleil radieux",
-    "id": 5
+    "id": 4
   },
   {
     "w": "le ciel est complètement dégagé",
-    "id": 6
+    "id": 5
   },
   {
     "w": "il fait un temps splendide",
-    "id": 7
+    "id": 6
   },
   {
     "w": "superbe",
-    "id": 8
+    "id": 7
   },
   {
     "w": "le temps est au beau fixe",
-    "id": 9
+    "id": 8
   },
   {
     "w": "le temps s'ameliore",
-    "id": 10
+    "id": 9
   },
   {
     "w": "la journée est pluvieuse",
-    "id": 11
+    "id": 10
   },
   {
     "w": "la journée est orageuse",
-    "id": 12
+    "id": 11
   },
   {
     "w": "le ciel est couvert",
-    "id": 13
+    "id": 12
   },
   {
     "w": "il fait un temps affreux",
-    "id": 14
+    "id": 13
   },
   {
     "w": "il fait un temps épouvantable",
-    "id": 15
+    "id": 14
   },
   {
     "w": "le temps est changeant",
-    "id": 16
+    "id": 15
   },
   {
     "w": "le temps est incertain",
-    "id": 17
+    "id": 16
   },
   {
     "w": "le temps se dégrade",
-    "id": 18
+    "id": 17
   },
   {
     "w": "les hivers peuvent être très rigoureux",
-    "id": 19
+    "id": 18
   },
   {
     "w": "il fait parfois un froid de canard",
-    "id": 20
+    "id": 19
   },
   {
     "w": "descendre",
-    "id": 21
+    "id": 20
   },
   {
     "w": "chuter",
-    "id": 22
+    "id": 21
   },
   {
     "w": "ça se rafraîchit",
-    "id": 23
+    "id": 22
   },
   {
     "w": "la température baisse",
-    "id": 24
+    "id": 23
   },
   {
     "w": "l'été 2003 a ete marqué par la canicule",
-    "id": 25
+    "id": 24
   },
   {
     "w": "il a fait une chaleur insupportable",
-    "id": 26
+    "id": 25
   },
   {
     "w": "ça se réchauffe",
-    "id": 27
+    "id": 26
   },
   {
     "w": "les temperatures sont en hausse",
-    "id": 28
+    "id": 27
   },
   {
     "w": "ça se refroidit",
-    "id": 29
+    "id": 28
   },
   {
     "w": "on va gagner 3",
-    "id": 30
+    "id": 29
   },
   {
     "w": "on va perdre 5",
-    "id": 31
+    "id": 30
   },
   {
     "w": "les températures sont supérieures aux normales saisonnieres",
-    "id": 32
+    "id": 31
   },
   {
     "w": "les températures sont inférieures",
-    "id": 33
+    "id": 32
   },
   {
     "w": "il n'y a pas un souffle de vent",
-    "id": 34
+    "id": 33
   },
   {
     "w": "on sent une petite brise",
-    "id": 35
+    "id": 34
   },
   {
     "w": "un vent très doux",
-    "id": 36
+    "id": 35
   },
   {
     "w": "le temps est très agité",
-    "id": 37
+    "id": 36
   },
   {
     "w": "les rafales",
-    "id": 38
+    "id": 37
   },
   {
     "w": "les bourrasques",
-    "id": 39
+    "id": 38
   },
   {
     "w": "atteindre",
-    "id": 40
+    "id": 39
   },
   {
     "w": "il va pleuvoir",
-    "id": 41
+    "id": 40
   },
   {
     "w": "les prévisions météorologiques",
-    "id": 42
+    "id": 41
   },
   {
     "w": "de fortes précipitations sont à prévoir",
-    "id": 43
+    "id": 42
   },
   {
     "w": "en revanche,",
-    "id": 44
+    "id": 43
   },
   {
     "w": "sécheresse",
-    "id": 45
+    "id": 44
   },
   {
     "w": "inquiets",
-    "id": 46
+    "id": 45
   },
   {
     "w": "il a plu un peu",
-    "id": 47
+    "id": 46
   },
   {
     "w": "il est tombé quelques gouttes",
-    "id": 48
+    "id": 47
   },
   {
     "w": "au contraire",
-    "id": 49
+    "id": 48
   },
   {
     "w": "on prévoit une pluie continue",
-    "id": 50
+    "id": 49
   },
   {
     "w": "une pluie battante",
-    "id": 51
+    "id": 50
   },
   {
     "w": "au printemps",
-    "id": 52
+    "id": 51
   },
   {
     "w": "il y a souvent des averses",
-    "id": 53
+    "id": 52
   },
   {
     "w": "des giboulées",
-    "id": 54
+    "id": 53
   },
   {
     "w": "courte durée",
-    "id": 55
+    "id": 54
   },
   {
     "w": "entrecoupées d'éclaircies",
-    "id": 56
+    "id": 55
   },
   {
     "w": "il y a de la bruine",
-    "id": 57
+    "id": 56
   },
   {
     "w": "car",
-    "id": 58
+    "id": 57
   },
   {
     "w": "brouillard (épais)",
-    "id": 59
+    "id": 58
   },
   {
     "w": "on n'y  verra rien",
-    "id": 60
+    "id": 59
   },
   {
     "w": "dissipation des brumes matinales",
-    "id": 61
+    "id": 60
   },
   {
     "w": "le soleil s'imporsera",
-    "id": 62
+    "id": 61
   },
   {
     "w": "un arc-en-ciel",
-    "id": 63
+    "id": 62
   },
   {
     "w": "ça ne tiendra pas",
-    "id": 64
+    "id": 63
   },
   {
     "w": "congères ",
-    "id": 65
+    "id": 64
   },
   {
     "w": "chasse-neige",
-    "id": 66
+    "id": 65
   },
   {
     "w": "il va geler",
-    "id": 67
+    "id": 66
   },
   {
     "w": "verglas",
-    "id": 68
+    "id": 67
   },
   {
     "w": "givre",
-    "id": 69
+    "id": 68
   },
   {
     "w": "l'ouest",
-    "id": 70
+    "id": 69
   },
   {
     "w": "éclairs",
-    "id": 71
+    "id": 70
   },
   {
     "w": "tout à coup",
-    "id": 72
+    "id": 71
   },
   {
     "w": "l'orage éclate",
-    "id": 73
+    "id": 72
   },
   {
     "w": "les arbres",
-    "id": 74
+    "id": 73
   },
   {
     "w": "la foudre",
-    "id": 75
+    "id": 74
   },
   {
     "w": "grêle",
-    "id": 76
+    "id": 75
   },
   {
     "w": "violents",
-    "id": 77
+    "id": 76
   },
   {
     "w": "provoqué",
-    "id": 78
+    "id": 77
   },
   {
     "w": "inondations",
-    "id": 79
+    "id": 78
   },
   {
     "w": "déborde",
-    "id": 80
+    "id": 79
   },
   {
     "w": "envahi",
-    "id": 81
+    "id": 80
   },
   {
     "w": "climat tempéré",
-    "id": 82
+    "id": 81
   },
   {
     "w": "très élevées en été",
-    "id": 83
+    "id": 82
   },
   {
     "w": "continental",
-    "id": 84
+    "id": 83
   },
   {
     "w": "mousson",
-    "id": 85
+    "id": 84
   },
   {
     "w": "diluviennes",
-    "id": 86
+    "id": 85
   },
   {
     "w": "emportent",
-    "id": 87
+    "id": 86
   },
   {
     "w": "provoquent",
-    "id": 88
+    "id": 87
   },
   {
     "w": "dégâts",
-    "id": 89
+    "id": 88
   },
   {
     "w": "détruits",
-    "id": 90
+    "id": 89
   },
   {
     "w": "dévastées",
-    "id": 91
+    "id": 90
   },
   {
     "w": "un sujet polémique",
-    "id": 92
+    "id": 91
   },
   {
     "w": "tandis",
-    "id": 93
+    "id": 92
   },
   {
     "w": "selon eux",
-    "id": 94
+    "id": 93
   },
   {
     "w": "énergies fossiles",
-    "id": 95
+    "id": 94
   },
   {
     "w": "l'émission de gaz à effet de serre",
-    "id": 96
+    "id": 95
   },
   {
     "w": "les vertes prairies",
-    "id": 97
+    "id": 96
   },
   {
     "w": "gîte rural",
-    "id": 98
+    "id": 97
   },
   {
     "w": "entourée",
-    "id": 99
+    "id": 98
   },
   {
     "w": "outils",
-    "id": 100
+    "id": 99
   }
 ]
