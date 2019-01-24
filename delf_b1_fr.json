@@ -1,778 +1,402 @@
 [
   {
-    "w": "rencontre",
-    "id": 0
-  },
-  {
-    "w": "accompagner",
+    "w": "du temps qu'il fait avec leurs viosins",
     "id": 1
   },
   {
-    "w": "récit",
+    "w": "il fait mauvais",
     "id": 2
   },
   {
-    "w": "indiquer",
+    "w": "il fait gris",
     "id": 3
   },
   {
-    "w": "endroit",
+    "w": "il fait nuageux",
     "id": 4
   },
   {
-    "w": "décrivez",
+    "w": "il fait un soleil radieux",
     "id": 5
   },
   {
-    "w": "précision",
+    "w": "le ciel est complètement dégagé",
     "id": 6
   },
   {
-    "w": "sentiment",
+    "w": "il fait un temps splendide",
     "id": 7
   },
   {
-    "w": "inoubliable",
+    "w": "superbe",
     "id": 8
   },
   {
-    "w": "garder",
+    "w": "le temps est au beau fixe",
     "id": 9
   },
   {
-    "w": "trace",
+    "w": "le temps s'ameliore",
     "id": 10
   },
   {
-    "w": "journal intime",
+    "w": "la journée est pluvieuse",
     "id": 11
   },
   {
-    "w": "semble",
+    "w": "la journée est orageuse",
     "id": 12
   },
   {
-    "w": "on est présenté",
+    "w": "le ciel est couvert",
     "id": 13
   },
   {
-    "w": "fait sa connaissance",
+    "w": "il fait un temps affreux",
     "id": 14
   },
   {
-    "w": "saluer",
+    "w": "il fait un temps épouvantable",
     "id": 15
   },
   {
-    "w": "s'embrassent",
+    "w": "le temps est changeant",
     "id": 16
   },
   {
-    "w": "baisers, bises, bisous",
+    "w": "le temps est incertain",
     "id": 17
   },
   {
-    "w": "varie",
+    "w": "le temps se dégrade",
     "id": 18
   },
   {
-    "w": "la joue",
+    "w": "les hivers peuvent être très rigoureux",
     "id": 19
   },
   {
-    "w": "souvent",
+    "w": "il fait parfois un froid de canard",
     "id": 20
   },
   {
-    "w": "je t'embrasse!",
+    "w": "descendre",
     "id": 21
   },
   {
-    "w": "gros bisous!",
+    "w": "chuter",
     "id": 22
   },
-    {
-    "w": "impoli",
+  {
+    "w": "ça se rafraîchit",
     "id": 23
   },
   {
-    "w": "insultant",
+    "w": "la température baisse",
     "id": 24
   },
   {
-    "w": "disent",
+    "w": "l'été 2003 a ete marqué par la canicule",
     "id": 25
   },
   {
-    "w": "parfois",
+    "w": "il a fait une chaleur insupportable",
     "id": 26
   },
   {
-    "w": "locution",
+    "w": "ça se réchauffe",
     "id": 27
   },
   {
-    "w": "autorise",
+    "w": "les temperatures sont en hausse",
     "id": 28
   },
   {
-    "w": "atténuer ",
+    "w": "ça se refroidit",
     "id": 29
   },
   {
-    "w": "brutalité",
+    "w": "on va gagner 3",
     "id": 30
   },
   {
-    "w": "impératif ",
+    "w": "on va perdre 5",
     "id": 31
   },
   {
-    "w": "asseyez",
+    "w": "les températures sont supérieures aux normales saisonnieres",
     "id": 32
   },
   {
-    "w": "laisser",
+    "w": "les températures sont inférieures",
     "id": 33
   },
   {
-    "w": "demander",
+    "w": "il n'y a pas un souffle de vent",
     "id": 34
   },
   {
-    "w": "santé",
+    "w": "on sent une petite brise",
     "id": 35
   },
   {
-    "w": "espoir",
+    "w": "un vent très doux",
     "id": 36
   },
   {
-    "w": "espére",
+    "w": "le temps est très agité",
     "id": 37
   },
   {
-    "w": "rassure",
+    "w": "les rafales",
     "id": 38
   },
   {
-    "w": "ça vous va?",
+    "w": "les bourrasques",
     "id": 39
   },
   {
-    "w": "ça a été?",
+    "w": "atteindre",
     "id": 40
   },
   {
-    "w": "voient",
+    "w": "il va pleuvoir",
     "id": 41
   },
   {
-    "w": "voisine",
+    "w": "les prévisions météorologiques",
     "id": 42
   },
   {
-    "w": "organise",
+    "w": "de fortes précipitations sont à prévoir",
     "id": 43
   },
   {
-    "w": "souhaiter",
+    "w": "en revanche,",
     "id": 44
   },
   {
-    "w": "vœu ",
+    "w": "sécheresse",
     "id": 45
   },
   {
-    "w": "envoie",
+    "w": "inquiets",
     "id": 46
   },
   {
-    "w": "heureuse",
+    "w": "il a plu un peu",
     "id": 47
   },
   {
-    "w": "cartes de vœux",
+    "w": "il est tombé quelques gouttes",
     "id": 48
   },
   {
-    "w": "réveillon",
+    "w": "au contraire",
     "id": 49
   },
   {
-    "w": "deuil",
+    "w": "on prévoit une pluie continue",
     "id": 50
   },
   {
-    "w": "condoléances",
+    "w": "une pluie battante",
     "id": 51
   },
   {
-    "w": "triste",
+    "w": "au printemps",
     "id": 52
   },
   {
-    "w": "décès de",
+    "w": "il y a souvent des averses",
     "id": 53
   },
   {
-    "w": "pauvre",
+    "w": "des giboulées",
     "id": 54
   },
   {
-    "w": "occasion",
+    "w": "courte durée",
     "id": 55
   },
   {
-    "w": "félicitations",
+    "w": "entrecoupées d'éclaircies",
     "id": 56
   },
   {
-    "w": "gagné",
+    "w": "il y a de la bruine",
     "id": 57
   },
   {
-    "w": "difficile",
+    "w": "car",
     "id": 58
   },
   {
-    "w": "trinque",
+    "w": "brouillard (épais)",
     "id": 59
   },
   {
-    "w": "disant",
+    "w": "on n'y  verra rien",
     "id": 60
   },
   {
-    "w": "soeur",
+    "w": "dissipation des brumes matinales",
     "id": 61
   },
   {
-    "w": "distingué ",
+    "w": "le soleil s'imporsera",
     "id": 62
   },
   {
-    "w": "frères",
+    "w": "un arc-en-ciel",
     "id": 63
   },
   {
-    "w": "tante",
+    "w": "ça ne tiendra pas",
     "id": 64
   },
   {
-    "w": "nièce ",
+    "w": "congères ",
     "id": 65
   },
   {
-    "w": "beau-père",
+    "w": "chasse-neige",
     "id": 66
   },
   {
-    "w": "belle-mère ",
+    "w": "il va geler",
     "id": 67
   },
   {
-    "w": "adopter",
+    "w": "verglas",
     "id": 68
   },
   {
-    "w": "chacun",
+    "w": "givre",
     "id": 69
   },
   {
-    "w": "ressembles",
+    "w": "l'ouest",
     "id": 70
   },
   {
-    "w": "tombe",
+    "w": "éclairs",
     "id": 71
   },
   {
-    "w": "le coup de foudre",
+    "w": "tout à coup",
     "id": 72
   },
   {
-    "w": "deviennent",
+    "w": "l'orage éclate",
     "id": 73
   },
   {
-    "w": "amants",
+    "w": "les arbres",
     "id": 74
   },
   {
-    "w": "se voient",
+    "w": "la foudre",
     "id": 75
   },
   {
-    "w": "vivre avec",
+    "w": "grêle",
     "id": 76
   },
   {
-    "w": "s'installe",
+    "w": "violents",
     "id": 77
   },
   {
-    "w": "vivent ensemble",
+    "w": "provoqué",
     "id": 78
   },
   {
-    "w": "préféré",
+    "w": "inondations",
     "id": 79
   },
   {
-    "w": "épouser",
+    "w": "déborde",
     "id": 80
   },
   {
-    "w": "église",
+    "w": "envahi",
     "id": 81
   },
   {
-    "w": "un mariage religieux",
+    "w": "climat tempéré",
     "id": 82
   },
   {
-    "w": "témoins",
+    "w": "très élevées en été",
     "id": 83
   },
   {
-    "w": "désirent",
+    "w": "continental",
     "id": 84
   },
   {
-    "w": "concubinage",
+    "w": "mousson",
     "id": 85
   },
   {
-    "w": "conclure",
+    "w": "diluviennes",
     "id": 86
   },
   {
-    "w": "se disputent",
+    "w": "emportent",
     "id": 87
   },
   {
-    "w": "constamment",
+    "w": "provoquent",
     "id": 88
   },
   {
-    "w": "contraire",
+    "w": "dégâts",
     "id": 89
   },
   {
-    "w": "malgré",
+    "w": "détruits",
     "id": 90
   },
   {
-    "w": "scène de ménage",
+    "w": "dévastées",
     "id": 91
   },
   {
-    "w": "disputes",
+    "w": "un sujet polémique",
     "id": 92
   },
   {
-    "w": "essaie",
+    "w": "tandis",
     "id": 93
   },
   {
-    "w": "se réconcilier",
+    "w": "selon eux",
     "id": 94
   },
   {
-    "w": "trompais",
+    "w": "énergies fossiles",
     "id": 95
   },
   {
-    "w": "rupture",
+    "w": "l'émission de gaz à effet de serre",
     "id": 96
   },
   {
-    "w": "quitter",
+    "w": "les vertes prairies",
     "id": 97
   },
   {
-    "w": "divorce",
+    "w": "gîte rural",
     "id": 98
   },
   {
-    "w": "aventure sans lendemain",
+    "w": "entourée",
     "id": 99
   },
   {
-    "w": "nous nous quittions",
+    "w": "outils",
     "id": 100
-  },
-  {
-    "w": "avenir",
-    "id": 101
-  },
-  {
-    "w": "menteur",
-    "id": 102
-  },
-  {
-    "w": "hier",
-    "id": 103
-  },
-  {
-    "w": "deteste",
-    "id": 104
-  },
-  {
-    "w": "haïr ",
-    "id": 105
-  },
-  {
-    "w": "verra",
-    "id": 106
-  },
-  {
-    "w": "partagée",
-    "id": 107
-  },
-  {
-    "w": "rire",
-    "id": 108
-  },
-  {
-    "w": "éprouver",
-    "id": 109
-  },
-  {
-    "w": "rejouir",
-    "id": 110
-  },
-  {
-    "w": "chagriner",
-    "id": 111
-  },
-  {
-    "w": "mourir",
-    "id": 112
-  },
-  {
-    "w": "perdre",
-    "id": 113
-  },
-  {
-    "w": "décès",
-    "id": 114
-  },
-  {
-    "w": "effondrer",
-    "id": 115
-  },
-  {
-    "w": "abattu",
-    "id": 116
-  },
-  {
-    "w": "preuve",
-    "id": 117
-  },
-  {
-    "w": "courage",
-    "id": 118
-  },
-  {
-    "w": "enterrement",
-    "id": 119
-  },
-  {
-    "w": "obsèques",
-    "id": 120
-  },
-  {
-    "w": "incinérée",
-    "id": 121
-  },
-  {
-    "w": "crémation",
-    "id": 122
-  },
-  {
-    "w": "crématorium",
-    "id": 123
-  },
-  {
-    "w": "cimetière",
-    "id": 124
-  },
-  {
-    "w": "orphelin",
-    "id": 125
-  },
-  {
-    "w": "veuve",
-    "id": 126
-  },
-  {
-    "w": "veuf",
-    "id": 127
-  },
-  {
-    "w": "éprouver",
-    "id": 128
-  },
-  {
-    "w": "tendresse",
-    "id": 129
-  },
-  {
-    "w": "rend",
-    "id": 130
-  },
-  {
-    "w": "tendre",
-    "id": 131
-  },
-  {
-    "w": "affectueuse",
-    "id": 132
-  },
-  {
-    "w": "fier de",
-    "id": 133
-  },
-  {
-    "w": "sympathise",
-    "id": 134
-  },
-  {
-    "w": "sympathique",
-    "id": 135
-  },
-  {
-    "w": "inspiré",
-    "id": 136
-  },
-  {
-    "w": "haine",
-    "id": 137
-  },
-  {
-    "w": "mépris",
-    "id": 138
-  },
-  {
-    "w": "en colère contre",
-    "id": 139
-  },
-  {
-    "w": "faire confiance",
-    "id": 140
-  },
-  {
-    "w": "partage",
-    "id": 141
-  },
-  {
-    "w": "ressent ",
-    "id": 142
-  },
-  {
-    "w": "admire",
-    "id": 143
-  },
-  {
-    "w": "manifeste",
-    "id": 144
-  },
-  {
-    "w": "soutien",
-    "id": 145
-  },
-  {
-    "w": "plains",
-    "id": 146
-  },
-  {
-    "w": "compassion",
-    "id": 147
-  },
-  {
-    "w": "déception",
-    "id": 148
-  },
-  {
-    "w": "Je suis déçu",
-    "id": 149
-  },
-  {
-    "w": "réjouis",
-    "id": 150
-  },
-  {
-    "w": "piscine",
-    "id": 151
-  },
-  {
-    "w": "plongeant",
-    "id": 152
-  },
-  {
-    "w": "racontez",
-    "id": 153
-  },
-  {
-    "w": "plutôt",
-    "id": 154
-  },
-  {
-    "w": "Ç'est quelqu'un de vraiment",
-    "id": 155
-  },
-  {
-    "w": "Jean a une forte personnalité.",
-    "id": 156
-  },
-  {
-    "w": "manque de courage",
-    "id": 157
-  },
-  {
-    "w": "prudent",
-    "id": 158
-  },
-  {
-    "w": "incroyable",
-    "id": 159
-  },
-  {
-    "w": "caractère",
-    "id": 160
-  },
-  {
-    "w": "chouette",
-    "id": 161
-  },
-  {
-    "w": "paresseux",
-    "id": 162
-  },
-  {
-    "w": "dur",
-    "id": 163
-  },
-  {
-    "w": "odieux",
-    "id": 164
-  },
-  {
-    "w": "traits",
-    "id": 165
-  },
-  {
-    "w": "rigueur",
-    "id": 166
-  },
-  {
-    "w": "drôle",
-    "id": 167
-  },
-  {
-    "w": "soigneuse",
-    "id": 168
-  },
-  {
-    "w": "soin",
-    "id": 169
-  },
-  {
-    "w": "ouverture d'esprit",
-    "id": 170
-  },
-  {
-    "w": "discrétion",
-    "id": 171
-  },
-  {
-    "w": "superficiel",
-    "id": 172
-  },
-  {
-    "w": "profond",
-    "id": 173
-  },
-  {
-    "w": "pape",
-    "id": 174
-  },
-  {
-    "w": "ennuyeux",
-    "id": 175
-  },
-  {
-    "w": "semaine",
-    "id": 176
-  },
-  {
-    "w": "la veille",
-    "id": 177
-  },
-  {
-    "w": "demain matin",
-    "id": 178
-  },
-  {
-    "w": "la Toussaint",
-    "id": 179
-  },
-  {
-    "w": "On est le combien?",
-    "id": 180
-  },
-  {
-    "w": "On est quel jour?",
-    "id": 181
-  },
-  {
-    "w": "Tu as l'heure?",
-    "id": 182
-  },
-  {
-    "w": "majuscule",
-    "id": 183
-  },
-  {
-    "w": "Le soleil se lève",
-    "id": 184
-  },
-  {
-    "w": "infirmière",
-    "id": 185
-  },
-  {
-    "w": "mauvaise",
-    "id": 186
-  },
-  {
-    "w": "horaire",
-    "id": 187
-  },
-  {
-    "w": "lendemain",
-    "id": 188
-  },
-  {
-    "w": "il faut du temps",
-    "id": 189
-  },
-  {
-    "w": "repousser",
-    "id": 190
-  },
-  {
-    "w": "vélo",
-    "id": 191
-  },
-  {
-    "w": "récemment",
-    "id": 192
-  },
-  {
-    "w": "matinal",
-    "id": 193
   }
 ]
